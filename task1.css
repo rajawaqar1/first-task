@@ -1,0 +1,47 @@
+
+
+
+header{
+    display: flex;
+    border: 5px solid white;
+   
+    background-color: #f1f1f1;
+    justify-content: space-around;
+
+}
+nav{
+ 
+    /* border: solid black; */
+    display: flex;
+    background-color: #f1f1f1;
+    border: 5px solid white;
+    justify-content: space-around;
+}
+
+
+ 
+
+
+
+   
+
+
+
+footer{
+    display: flex;
+   justify-content: space-around;
+    background-color: #f1f1f1;
+    border: 5px solid white;
+}
+section{
+display: flex;
+justify-content: space-around;
+height: 60vh;
+width: 100%;
+background-color: #f1f1f1;
+border: 5px solid white;
+}
+   
+  
+
+
